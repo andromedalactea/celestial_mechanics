@@ -1,4 +1,4 @@
-#!/home/andromeda/celestial_mechanics/.venv/bin/python3
+#!/home/clickgreen/celestial_mechanics/.venv/bin/python3
 # -*- coding: utf-8 -*-
 import re
 import sys
