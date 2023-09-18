@@ -1,0 +1,13 @@
+astroquery
+datetime
+pymcel
+plotly
+rebound
+seaborn
+scipy
+numpy
+pandas
+matplotlib
+astropy
+celluloid
+spiceypy
