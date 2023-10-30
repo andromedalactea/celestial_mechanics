@@ -22,5 +22,5 @@ def image_to_base64(image_path):
     return base64_str
 
 # Uso de la función
-base64_output = image_to_base64("/home/andromeda/celestial_mechanics/scripts/Codigos_utiles/velocidades.png")
+base64_output = image_to_base64("/home/andromeda/celestial_mechanics/scripts/Codigos_utiles/download.png")
 print(base64_output)
