@@ -11,3 +11,4 @@ matplotlib
 astropy
 celluloid
 spiceypy
+sympy
